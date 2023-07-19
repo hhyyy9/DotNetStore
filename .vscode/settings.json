@@ -1,2 +1,4 @@
 {
+    "dotnetAcquisitionExtension.installTimeoutValue": 180,
+    "dotnet.defaultSolution": "ReStore.sln"
 }
