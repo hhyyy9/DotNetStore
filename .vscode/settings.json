@@ -1,4 +1,7 @@
 {
     "dotnetAcquisitionExtension.installTimeoutValue": 180,
-    "dotnet.defaultSolution": "ReStore.sln"
+    "dotnet.defaultSolution": "ReStore.sln",
+    "java.configuration.runtimes": [
+        
+    ]
 }
